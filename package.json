@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/reskimulud/birthday#readme",
   "dependencies": {
+    "confetti-js": "0.0.18",
     "css-loader": "^6.7.1",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
